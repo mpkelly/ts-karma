@@ -1,7 +1,7 @@
 # An example project using Karma, Webpack 3 and Enzyme for React Testing
 
-This project was based on the following blogpost
-Repo for Getting Started with React, Typescript and Webpack Medium [blog post](https://medium.com/@fay_jai/getting-started-with-reactjs-typescript-and-webpack-95dcaa0ed33c#.cp7sr9ewx)
+This project was based on the following blogpost:
+Getting Started with React, Typescript and Webpack Medium [blog post](https://medium.com/@fay_jai/getting-started-with-reactjs-typescript-and-webpack-95dcaa0ed33c#.cp7sr9ewx)
 
 The key differences are that it uses Enzyme and that it has been updated to work with Webpack 3 and the latest React packages as of August 2017. 
 
