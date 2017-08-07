@@ -7,11 +7,11 @@ interface HelloProps {
 
 class Hello extends React.Component<HelloProps, {}> {
   render() {
-      return (
-        <div>
-          <H1>Title</H1>
-        </div>
-      )
+    return (
+      <div>
+        <H1>Hello {this.props.name}</H1>
+      </div>
+    )
   }
 }
 

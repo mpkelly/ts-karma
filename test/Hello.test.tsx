@@ -6,6 +6,6 @@ import Hello from "../src/Hello";
 describe("Hello", () => {
   it('renders three <Hello /> components', () => {
     const wrapper = mount(<Hello name="Mike" />);
-    expect(wrapper.find("h1").text()).to.contain('Title');
+    expect(wrapper.find("h1").text()).to.contain('Hello Mike');
   });
 });
